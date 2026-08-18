@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-81zvha.indocuan-pro.site/sitemap.xml
